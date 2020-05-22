@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">T5_A5_4s_BazanGarduñoMiguelAngel</string>
+    <string name="lbl_tem">Temperatura: </string>
+    <string name="lbl_a">A: </string>
+    <string name="lbl_igual"> = </string>
+
+
+
+</resources>
